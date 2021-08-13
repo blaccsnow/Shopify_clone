@@ -26,6 +26,7 @@
  
   #intro {
    display:flex;
+   justify-content: space-between;
    max-width: 100%;
    margin:100px 0 0 30px;
   }
