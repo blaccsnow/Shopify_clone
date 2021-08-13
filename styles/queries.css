@@ -1,0 +1,153 @@
+@media only screen and (orientation: landscape) and (min-width: 769px) {
+  .menu-element {
+   display:none;
+  }
+ 
+  #head-element{
+  justify-content: flex-start;
+  padding: 15px 30px 0 0;
+  }
+ 
+  #middle-element {
+   display:flex;
+   padding-left:30px;
+  }
+ 
+  #middle-element p {
+   padding:0 20px;
+  }
+ 
+  #sidenav-btn {
+  width:172px;
+  height:40px;
+  line-height:-70px;
+  margin:0 0 0 10px;
+  }
+ 
+  #intro {
+   display:flex;
+   max-width: 100%;
+   margin:100px 0 0 30px;
+  }
+ 
+  #intro-flex {
+   display:flex;
+   flex-direction:column;
+   max-width:35%;
+  }
+ 
+  #intro-text {
+  font-size:40px;
+  }
+ 
+  #mail, #trial-btn {
+   width:85%;
+   margin-top:10px;
+  }
+ 
+  #intro-img {
+   margin-bottom:30px;
+  }
+ 
+  #image-div-flex {
+   display:flex;
+  }
+ 
+  #section-two-bottom {
+   max-width:100%;
+  }
+
+  #bottom-span-div {
+   display:flex;
+  }
+ 
+  #section-two-bottom .bottom-img {
+   width:30px;
+  }
+ 
+  .bottom-span {
+   margin-right:30px;
+  }
+ 
+  .white-section .white-one {
+   font-size:35px;
+  }
+ 
+  white-section .white-p{
+   max-width:10%;
+  }
+ 
+  #image-flex1 {
+   display:flex;
+   flex-direction:row-reverse;
+   justify-content:flex-start;
+  }
+ 
+  #image-flex1 div {
+   display:flex;
+   flex-direction:column;
+   width:65%;
+   margin-top:50px;
+  }
+ 
+ .intro-img2 {
+   width:500px;
+   padding-bottom:60px;
+ }
+
+ #white-flex {
+  display:flex;
+ }
+
+ #white-flex div {
+  display:flex;
+  flex-direction:column;
+  margin-top:100px;
+ }
+
+ #white-flex2 {
+  display:flex;
+  flex-direction:row-reverse;
+ }
+ 
+ #white-flex2 div {
+  display:flex;
+  flex-direction:column;
+  margin-top:100px;
+ }
+
+ .white-s-one {
+  padding:0 0 35px 60px;
+ }
+ 
+ #white-s-two {
+  padding:0 0 35px 60px;
+ }
+
+ #white-s-three {
+  padding:0 0 30px 60px;
+ }
+
+ #world-flex {
+  display:flex;
+  flex-direction:column;
+ }
+
+ #world-flex img {
+  max-width:90%;
+  margin:auto;
+ }
+
+ .intro-img3 {
+  width:80%;
+ }
+
+ #online-store {
+  flex-direction:row;
+ }
+
+ #nav-flex {
+  flex-direction:row;
+  margin:20px;
+ }
+}
